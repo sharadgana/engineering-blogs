@@ -17,7 +17,6 @@
 ### Companies
 
 #### \# companies
-* 2359 Media http://engineering.2359media.net/
 * 500px http://developers.500px.com/
 * 8th Light http://blog.8thlight.com/
 
@@ -35,7 +34,6 @@
 * Atlassian https://developer.atlassian.com/blog/
 * Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
-* AWeber http://engineering.aweber.com/
 * AWS https://aws.amazon.com/blogs/aws/
 * Azavea http://www.azavea.com/blogs/labs/
 
@@ -87,7 +85,6 @@
 * DataFox http://eng.datafox.co/
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
-* Devmag.io http://engineering.devmag.io/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker http://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
@@ -154,6 +151,7 @@
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
+* Intercom https://engineering.intercom.io/
 
 #### J companies
 * Jolly Good Code https://jollygoodcode.github.io/
@@ -196,7 +194,6 @@
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
 
 #### N companies
-* nerdish by nature http://nerdishbynature.com/blog/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
@@ -217,7 +214,7 @@
 * Parse http://blog.parse.com/
 * Paypal https://devblog.paypal.com/category/engineering/
 * Periscope https://www.periscopedata.com/blog/
-* Pinterest https://engineering.pinterest.com/
+* Pinterest https://engineering.pinterest.com/blog
 * Polyvore http://engblog.polyvore.com/
 * Postmark http://blog.postmarkapp.com/
 * Prezi https://medium.com/prezi-engineering
@@ -230,11 +227,11 @@
 #### R companies
 * Raizlabs http://www.raizlabs.com/dev/
 * Rdio https://algorithms.rdio.com/
+* Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
-* Rent the Runway http://dresscode.renttherunway.com/blog/
 * Rightscale http://eng.rightscale.com/
 * Riot Games http://engineering.riotgames.com/
 * RisingStack https://blog.risingstack.com/
@@ -279,7 +276,6 @@
 * Tilt http://engineering.tilt.com/
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
-* Trello https://trello.engineering/
 * Trivago http://tech.trivago.com/
 * TrueCar http://www.drivenbycode.com/
 * Tumblr http://engineering.tumblr.com/
@@ -288,7 +284,6 @@
 
 #### U companies
 * Uber http://eng.uber.com/
-* UnderArmour http://engineering.underarmour.com/
 
 #### V companies
 * Venmo http://blog.venmo.com/?category=Engineering
@@ -315,7 +310,6 @@
 
 #### X companies
 * XING https://devblog.xing.com/
-* XO Group http://xogroupinc.com/
 * Xoom http://dev-blog.xoom.com/
 
 #### Y companies
@@ -328,7 +322,6 @@
 * Zalando https://tech.zalando.com/blog/
 * Zendesk https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
-* Zesty http://engineering.zesty.com/
 * Zillow https://engineering.zillow.com/
 * Zulily http://engineering.zulily.com/
 * Zumba http://tech.zumba.com/
@@ -337,13 +330,11 @@
 ### Individuals/Group Contributors
 
 #### A individuals
-* A List Apart http://alistapart.com/
 * Aaron Patterson http://tenderlovemaking.com/
 * Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani http://addyosmani.com/blog/
-* Ajaxian http://ajaxian.com/
 * Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
@@ -369,7 +360,7 @@
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
-* Chris Hager https://www.metachris.com
+* Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code Better http://codebetter.com/
@@ -379,7 +370,6 @@
 * Daily JS http://dailyjs.com/
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
-* Dan North http://dannorth.net/blog/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
@@ -412,6 +402,7 @@
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
+* Graham King http://www.darkcoding.net/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 
@@ -436,7 +427,7 @@
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
 * Joel Spolsky http://www.joelonsoftware.com/
-* John Resig http://ejohn.org/
+* John Resig http://ejohn.org/category/blog/
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
 * Jonathan Snook http://snook.ca/
@@ -461,8 +452,7 @@
 * Martin Fowler http://martinfowler.com/
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
-* Michael Becker http://beckerfuffle.com/
-* Michaël Gallego http://www.michaelgallego.fr/
+* Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
 * Miguel Quinones http://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
@@ -558,6 +548,21 @@
 #### Z individuals
 * Zach Holman http://zachholman.com/
 * Zolmeister https://zolmeister.com/
+
+### Products/Technologies
+
+#### A technologies
+* Atom.io http://blog.atom.io/
+
+#### G technologies
+* Go https://blog.golang.org/
+
+#### L technologies
+* Laravel http://blog.laravel.com/
+
+#### R technologies
+* React https://facebook.github.io/react/blog/
+* Rust http://blog.rust-lang.org/
 
 ----
 
