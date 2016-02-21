@@ -37,7 +37,7 @@
 * AlphaSights http://engineering-blog.alphasights.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
-* Asana https://eng.asana.com/
+* Asana https://blog.asana.com/category/eng/
 * Atlassian https://developer.atlassian.com/blog/
 * Auth0 https://auth0.com/blog/
 * Autodesk http://cloudengineering.autodesk.com/blog/
@@ -46,9 +46,11 @@
 
 #### B companies
 * Badoo https://techblog.badoo.com/
+* Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
+* Benchling http://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
@@ -93,7 +95,7 @@
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
-* Docker http://blog.docker.com/category/engineering/
+* Docker https://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
@@ -131,7 +133,7 @@
 * Good Eggs http://bites.goodeggs.com/
 * Google Online Security https://googleonlinesecurity.blogspot.com/
 * GoSquared https://engineering.gosquared.com/
-* Grammarly http://tech.grammarly.com
+* Grammarly http://tech.grammarly.com/blog/index.html
 * Grouper http://eng.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
@@ -140,7 +142,7 @@
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
 * Harry's http://engineering.harrys.com/
-* Hashrocket http://hashrocket.com/blog
+* Hashrocket https://hashrocket.com/blog
 * Heroku https://engineering.heroku.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * Honeybadger http://blog.honeybadger.io/
@@ -153,14 +155,16 @@
 * IFTTT http://engineering.ifttt.com/
 * IMVU http://engineering.imvu.com/
 * Imaginea http://blog.imaginea.com/
-* Imgur http://imgur.com/blog/category/eng/
+* Imgur http://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
+* Instacart https://tech.instacart.com/
 * Instagram http://instagram-engineering.tumblr.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
 
 #### J companies
+* Jane Street https://blogs.janestreet.com/category/ocaml/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 
@@ -168,7 +172,6 @@
 * Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * Kifi http://eng.kifi.com/
-* Klout http://engineering.klout.com/
 * Kogan.com http://devblog.kogan.com/
 
 #### L companies
@@ -189,7 +192,7 @@
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
-* Mixmax https://mixmax.com/engineering
+* Mixmax https://mixmax.com/blog/tag/engineering
 * Mixpanel https://code.mixpanel.com/
 * Monetate http://engineering.monetate.com/
 * MoneyBird http://engineering.moneybird.com/
@@ -209,7 +212,7 @@
 
 #### O companies
 * Okta http://developer.okta.com/blog/
-* OmniTI https://omniti.com/seeds/
+* OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
@@ -223,13 +226,13 @@
 * Periscope https://www.periscopedata.com/blog/
 * Pinterest https://engineering.pinterest.com/blog
 * Polyvore http://engblog.polyvore.com/
-* Postmark http://blog.postmarkapp.com/
+* Postmark https://postmarkapp.com/blog
 * Prezi https://medium.com/prezi-engineering
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PullReview http://blog.8thcolor.com/
 
 #### Q companies
-* Quora http://engineering.quora.com/
+* Quora https://engineering.quora.com/
 
 #### R companies
 * Raizlabs http://www.raizlabs.com/dev/
@@ -252,10 +255,10 @@
 * Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethis http://engineering.sharethis.com/
-* Sharethrough http://engineering.sharethrough.com/blog/
-* Shopify https://www.shopify.com/technology
+* Shopify https://engineering.shopify.com
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
+* Sky Betting & Gaming http://engineering.skybettingandgaming.com/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/
@@ -265,6 +268,7 @@
 * Square https://corner.squareup.com/
 * SRC:CLR https://blog.srcclr.com/
 * Stack Overflow http://blog.stackoverflow.com/engineering/
+* Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
 * Strava http://labs.strava.com/blog/
 * Stride NYC http://www.stridenyc.com/blog/
@@ -284,7 +288,7 @@
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
 * Trivago http://tech.trivago.com/
-* TrueCar http://www.drivenbycode.com/
+* TrueCar https://www.drivenbycode.com/
 * Tumblr http://engineering.tumblr.com/
 * Twilio https://www.twilio.com/engineering/
 * Twitter https://blog.twitter.com/engineering
@@ -313,7 +317,7 @@
 * Wix http://engineering.wix.com/
 * Wolox https://medium.com/@WoloxEngineering/
 * Wonga Technology http://tech.wonga.com/
-* WyeWorks http://wyeworks.com/blog/
+* WyeWorks https://wyeworks.com/blog/
 
 #### X companies
 * XING https://devblog.xing.com/
@@ -321,7 +325,6 @@
 
 #### Y companies
 * Yahoo http://yahooeng.tumblr.com/
-* Yalantis https://yalantis.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
 
@@ -338,10 +341,11 @@
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
+* Abhinaba Basu http://blogs.msdn.com/b/abhinaba/
 * Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
-* Addy Osmani http://addyosmani.com/blog/
+* Addy Osmani https://addyosmani.com/blog/
 * Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
@@ -360,7 +364,7 @@
 * Barry Warsaw http://www.wefearchange.org/
 * Bill the Lizard http://www.billthelizard.com/
 * Blake Erickson http://blakeerickson.com/
-* Blundell's Android Tutorials http://blog.blundell-apps.com/
+* Blundell's Android Tutorials http://blog.blundellapps.co.uk
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
@@ -378,6 +382,7 @@
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
 * David Walsh https://davidwalsh.name/
@@ -414,7 +419,7 @@
 * Guilherme Rodrigues http://firstdoit.com/
 
 #### H individuals
-* High Scalability http://highscalability.com/blog/
+* High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
 
 #### I individuals
@@ -436,9 +441,9 @@
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/category/blog/
 * Jon Skeet http://codeblog.jonskeet.uk/
-* Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
+* Jonathan Dekhtiar https://www.dataradar.io
 * Jonathan Snook http://snook.ca/
-* Josh Sherman http://joshtronic.com/
+* Josh Sherman https://joshtronic.com/
 * Justin Weiss http://www.justinweiss.com/blog/
 
 #### K individuals
@@ -511,13 +516,13 @@
 * Rémi Delhaye http://blog.rdlh.io/
 * Rob Allen https://akrabat.com/
 * Robert C. Martin http://blog.cleancoder.com/
-* Robin Ward http://eviltrout.com/
+* Robin Ward https://eviltrout.com/
 * Robin Wilson http://blog.rtwilson.com/
 * Rudy Huyn http://www.rudyhuyn.com/blog/
-* Ruslan Spivak http://ruslanspivak.com/
+* Ruslan Spivak https://ruslanspivak.com/
 
 #### S individuals
-* Sam Saffron http://samsaffron.com/
+* Sam Saffron https://samsaffron.com/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Simon Reimler https://devdactic.com/devblog/
 * Srinivas Tamada http://www.9lessons.info/
@@ -553,7 +558,7 @@
 * Yifan Lu http://yifan.lu/
 
 #### Z individuals
-* Zach Holman http://zachholman.com/
+* Zach Holman https://zachholman.com/
 * Zolmeister https://zolmeister.com/
 
 ### Products/Technologies
@@ -571,6 +576,9 @@
 * React https://facebook.github.io/react/blog/
 * RocksDB http://rocksdb.org/blog
 * Rust http://blog.rust-lang.org/
+
+#### V technologies
+* Vertabelo http://www.vertabelo.com/blog
 
 ----
 
