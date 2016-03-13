@@ -94,6 +94,7 @@
 * DataFox http://eng.datafox.co/
 * DataRank http://engineering.datarank.com/
 * DeferPanic https://deferpanic.com/blog/
+* Deis https://deis.com/blog
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Docker https://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
@@ -107,7 +108,6 @@
 * Etsy https://codeascraft.com/
 * Eventbrite http://www.eventbrite.com/engineering/
 * Evernote https://blog.evernote.com/tech/
-* EverythingMe http://geeks.everything.me/
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
@@ -144,6 +144,7 @@
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Heroku https://engineering.heroku.com/
+* HireArt http://code.hireart.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * Honeybadger http://blog.honeybadger.io/
 * Hootsuite http://code.hootsuite.com/
@@ -299,7 +300,7 @@
 #### V companies
 * Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye http://blog.versioneye.com/
-* Viget https://viget.com/extend
+* Viget https://www.viget.com/articles/category/code#articles
 * Vimeo http://makingvimeo.com/
 * Vine http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
@@ -346,6 +347,7 @@
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani https://addyosmani.com/blog/
+* Adrian Colyer http://blog.acolyer.org/
 * Alan Storm http://alanstorm.com/
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
@@ -358,16 +360,20 @@
 * Antirez http://antirez.com/latest/0
 * Ariya Hidayat http://ariya.ofilabs.com/
 * Armin Ronacher http://lucumr.pocoo.org/
+* Axel Rauschmayer http://www.2ality.com/
 
 #### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
+* Ben McCormick http://benmccormick.org/
 * Bill the Lizard http://www.billthelizard.com/
+* Bjørn Johansen https://bjornjohansen.no/
 * Blake Erickson http://blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundellapps.co.uk
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
+* Bryan Cantrill http://dtrace.org/blogs/bmc/
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
@@ -395,7 +401,8 @@
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
-* Edgar Aroutiounian http://hyegar.com/blog/
+* Edan Kwan http://blog.edankwan.com/
+* Edgar Aroutiounian http://hyegar.com/archive/
 * Ejci's Blog http://ejci.net/
 * Elegant Code http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
@@ -415,6 +422,7 @@
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Gonto http://gon.to/blog/
 * Graham King http://www.darkcoding.net/
+* Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues http://firstdoit.com/
 
@@ -434,7 +442,9 @@
 * James Hague http://prog21.dadgum.com/
 * James Long http://jlongster.com/archive
 * Jamis Buck http://weblog.jamisbuck.org/
+* Jay Fields http://blog.jayfields.com
 * Jeff Atwood http://blog.codinghorror.com/
+* Jeff Preshing http://preshing.com/
 * Jeremy Kun http://jeremykun.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
@@ -443,6 +453,7 @@
 * Jon Skeet http://codeblog.jonskeet.uk/
 * Jonathan Dekhtiar https://www.dataradar.io
 * Jonathan Snook http://snook.ca/
+* Josh Haberman http://blog.reverberate.org/
 * Josh Sherman https://joshtronic.com/
 * Justin Weiss http://www.justinweiss.com/blog/
 
@@ -491,7 +502,6 @@
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish http://www.paulirish.com/
 * Paul Lewis https://aerotwist.com/blog/
-* Peter Lyons http://peterlyons.com/problog
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
@@ -565,6 +575,9 @@
 
 #### A technologies
 * Atom.io http://blog.atom.io/
+
+#### C technologies
+* Crystal http://crystal-lang.org/
 
 #### G technologies
 * Go https://blog.golang.org/
