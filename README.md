@@ -377,6 +377,7 @@
 
 #### C individuals
 * Carlos Becker http://carlosbecker.com
+* Chien Tran http://thelazylog.com/
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
@@ -473,6 +474,7 @@
 * Marc Plano-Lesay http://enoent.fr
 * Marco Pivetta http://ocramius.github.io/
 * Martin Fowler http://martinfowler.com/
+* Matt Aimonetti https://matt.aimonetti.net/
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
