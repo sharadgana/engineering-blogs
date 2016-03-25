@@ -200,6 +200,7 @@
 * Monsanto http://engineering.monsanto.com/
 * Moove-it http://blog.moove-it.com/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
+* Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering http://planet.mozilla.org/releng/
 * Myntra http://myntra.github.io/
 * Myntra Data Science http://sartorialscience.myntrablogs.com/
@@ -365,6 +366,7 @@
 #### B individuals
 * Bad Concurrency http://bad-concurrency.blogspot.com/
 * Barry Warsaw http://www.wefearchange.org/
+* Bartlomiej Filipek http://www.bfilipek.com/
 * Ben McCormick http://benmccormick.org/
 * Bill the Lizard http://www.billthelizard.com/
 * Bjørn Johansen https://bjornjohansen.no/
@@ -399,6 +401,7 @@
 * Dereuromark http://www.dereuromark.de/
 * Discover Meteor https://www.discovermeteor.com/blog
 * Dragan Gaic http://www.gajotres.net/
+* Drew DeVault https://drewdevault.com/
 * Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
@@ -430,10 +433,12 @@
 #### H individuals
 * High Scalability http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
+* Hypriot http://blog.hypriot.com/
 
 #### I individuals
+* Ian Hummel https://themodernlife.github.io/
 * Idontgetoutmuch's Weblog https://idontgetoutmuch.wordpress.com/
-* Ilija Eftimov http://rubylogs.com/
+* Ilija Eftimov http://eftimov.net/
 * Ilya Grigorik https://www.igvita.com/
 
 #### J individuals
@@ -482,12 +487,14 @@
 * Miguel Quinones http://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
 * Mike Fogus http://blog.fogus.me/
+* Milosz Galazka https://blog.sleeplessbeastie.eu/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
 * Nelson Elhage https://blog.nelhage.com/
 * Nic Raboy https://blog.nraboy.com/
 * Nick Desaulniers https://nickdesaulniers.github.io/
+* Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
@@ -562,7 +569,6 @@
 #### W individuals
 * Wilfred Hughes http://www.wilfred.me.uk/
 * William Kennedy http://www.goinggo.net/
-* Winston Chen http://www.winstonchen.co/
 * Wojtek Gawroński http://www.afronski.pl/
 
 #### Y individuals
