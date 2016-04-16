@@ -108,6 +108,7 @@
 * Etsy https://codeascraft.com/
 * Eventbrite http://www.eventbrite.com/engineering/
 * Evernote https://blog.evernote.com/tech/
+* Evil Martians https://evilmartians.com/chronicles/
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
@@ -159,7 +160,7 @@
 * Imgur http://blog.imgur.com/category/eng/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
-* Instagram http://instagram-engineering.tumblr.com/
+* Instagram http://engineering.instagram.com/
 * Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
@@ -187,6 +188,7 @@
 * Lookout http://hackers.lookout.com/
 
 #### M companies
+* Made Tech https://www.madetech.com/blog
 * Magnet.me https://labs.magnet.me
 * MailChimp http://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
@@ -252,6 +254,7 @@
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
+* Scrunch https://tech.scrunch.com/blog/
 * Secret Escapes http://tech.secretescapes.com/
 * Semaphore CI Community https://semaphoreci.com/community
 * Sensible http://blog.sensible.io/
@@ -280,6 +283,7 @@
 * Takipi http://blog.takipi.com/
 * Target https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
+* Teamwork http://engineroom.teamwork.com/
 * Teespring http://teespring.engineering/
 * theScore http://techblog.thescore.com/
 * Thoughtbot https://robots.thoughtbot.com/
@@ -344,6 +348,7 @@
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
 * Abhinaba Basu http://blogs.msdn.com/b/abhinaba/
+* Abu Ashraf Masnun http://masnun.com/
 * Adam Bard https://adambard.com/blog/
 * Adam Leventhal http://dtrace.org/blogs/ahl/
 * Adam Tuliper http://www.adamtuliper.com/
@@ -391,6 +396,7 @@
 * Daily Tech Video http://dailytechvideo.com/
 * Dan Luu http://danluu.com/
 * Daniel Doubrovkine (dB.) http://code.dblock.org/
+* DataRadar.io https://www.dataradar.io/
 * Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html
 * Dave Cheney http://dave.cheney.net/
@@ -457,13 +463,14 @@
 * Joel Spolsky http://www.joelonsoftware.com/
 * John Resig http://ejohn.org/category/blog/
 * Jon Skeet http://codeblog.jonskeet.uk/
-* Jonathan Dekhtiar https://www.dataradar.io
+* Jonathan Dekhtiar https://www.born2data.com/
 * Jonathan Snook http://snook.ca/
 * Josh Haberman http://blog.reverberate.org/
 * Josh Sherman https://joshtronic.com/
 * Justin Weiss http://www.justinweiss.com/blog/
 
 #### K individuals
+* K. Harrison http://useyourloaf.com/
 * Kevin Burke https://kev.inburke.com/
 * Kyle Kingsbury https://aphyr.com/
 
